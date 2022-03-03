@@ -52,8 +52,6 @@
 
 </details>
 
-[website]: 
-[youtube]: 
-[instagram]: 
+
 [linkedin]: https://linkedin.com/in/anushkanambiar
 [portfolio]: https://anushkanambiar.github.io/Portfolio/
